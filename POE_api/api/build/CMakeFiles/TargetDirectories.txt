@@ -1,0 +1,3 @@
+/media/tru-cpu-24/500_GB/APIs/POE_api/api/build/CMakeFiles/main.dir
+/media/tru-cpu-24/500_GB/APIs/POE_api/api/build/CMakeFiles/edit_cache.dir
+/media/tru-cpu-24/500_GB/APIs/POE_api/api/build/CMakeFiles/rebuild_cache.dir
